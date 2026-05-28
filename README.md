@@ -38,8 +38,7 @@ We have streamlined the setup process using custom Composer scripts.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/deedeveloper2601/vectorlead-chat.git
-   cd crm-copilot
+   git clone https://github.com/deedeveloper2601/crm-copilot-chat.git
    ```
 
 2. **Run the automated setup:**
